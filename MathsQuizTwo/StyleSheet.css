@@ -1,0 +1,45 @@
+body {
+	background-color: #aef359;
+}
+
+.content {
+	text-align: center;
+	max-width: 500px;
+
+	margin: auto;
+}
+
+.text {
+	font-family: 'Merienda';
+	font-size: 16px;
+	color: #32612d;
+}
+
+#Title {
+	color: #ff1694;
+	font-size: 30px;
+}
+
+#Submit {
+	display: inline-block;
+ 	text-align: center;
+  	text-decoration: none;
+  	margin: 2px 0;
+  	border: solid 1px transparent;
+  	border-radius: 4px;
+  	padding: 0.5em 1em;
+	color: #32612d;
+  	background-color: #ff1694;
+	font-family: 'Merienda';
+}
+
+.textBoxes {
+	font-family: 'Merienda';
+	font-size: 16px;
+	color: #ff1694;
+	width: 100px;
+}
+
+#ScoreDisplay {
+	color: #ff1694;
+}
